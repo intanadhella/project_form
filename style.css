@@ -1,0 +1,15 @@
+h1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.col{
+    width: 48%;
+    display: inline-block;
+}
+.form {
+    text-align: initial ;
+}
+.favorite-image > img {
+    width: 200px;
+}
